@@ -16,10 +16,6 @@ My primary areas of interest include:
 📫 How to reach me: nithishkumars30102000@gmail.com
 
 
-
-
-
-
 <h2 align="left">Languages and Tools:</h2>
 
 ###
@@ -64,3 +60,10 @@ Conference on Computational Intelligence, Springer, ISBN: 978-981-19-2126-1, Oct
 Computer Vision** [🔗 Journal Link](https://drive.google.com/file/d/1E4ocoa9WhjbOksHTL7AhcDkKffM7CeZg/view?usp=sharing)
 
 
+## Projects
+| **Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**<br>[🔗 Project Link](https://github.com/BELIV-ASU/Enhanced-Cooperative-Perception-Through-Asynchronous-V2I-Framework-with-Delay-Mitigation-for-CAVs)<br>Short description of Project 1.<br><br>- Key Feature 1<br>- Key Feature 2 | **Teleoperated Mobile Robot For External Cable Health Analysis Using Thermal Imaging**<br>[🔗 Project Link](https://github.com/S-Nithish-Kumar/Lapp_Cable_External_Health_Analysis_and_Restoration_Test)<br>Short description of Project 2.<br><br>- Key Feature 1<br>- Key Feature 2 |
+|-----------|-----------|
+| **AMR Localization using Kalman Filter**<br>[🔗 Project Link](https://github.com/yourusername/project3)<br>Short description of Project 3.<br><br>- Key Feature 1<br>- Key Feature 2 | **AMR with YOLOv5 Traffic Sign Detection and LiDAR based Obstacle Avoidance**<br>[🔗 Project Link](https://hankramnithish.github.io/)<br>Short description of Project 4.<br><br>- Key Feature 1<br>- Key Feature 2 |
+| **Development of Closed Loop Control System for Self-Balancing Bike**<br>[🔗 Project Link](https://github.com/S-Nithish-Kumar/Self-Balancing_Motorcycle)<br>Short description of Project 3.<br><br>- Key Feature 1<br>- Key Feature 2 | **Camera based Localization for Mobile Robot Control**<br>[🔗 Project Link](https://github.com/S-Nithish-Kumar/WebCam_Controlled_Rover?tab=readme-ov-file)<br>Short description of Project 4.<br><br>- Key Feature 1<br>- Key Feature 2 |
+| **Design and Development of CNC Sketching Machine**<br>[🔗 Project Link](https://github.com/S-Nithish-Kumar/Development_of_a_Unique_Design_CNC_Sketching_Machine)<br>Short description of Project 3.<br><br>- Key Feature 1<br>- Key Feature 2 | **Design of 4 DoF Robot Arm with Design for Manufacturing using CNC Laser Machine**<br>[🔗 Project Link](https://github.com/S-Nithish-Kumar/Design_of_CNC_Laser_Cut_Friendly_Robot_Arm)<br>Short description of Project 4.<br><br>- Key Feature 1<br>- Key Feature 2 |
+| **Design and Development of CNC Sketching Machine**<br>[🔗 Project Link](https://github.com/S-Nithish-Kumar/Development_of_a_Unique_Design_CNC_Sketching_Machine)<br>Short description of Project 3.<br><br>- Key Feature 1<br>- Key Feature 2 | **Design of 4 DoF Robot Arm with Design for Manufacturing using CNC Laser Machine**<br>[🔗 Project Link](https://github.com/S-Nithish-Kumar/Design_of_CNC_Laser_Cut_Friendly_Robot_Arm)<br>Short description of Project 4.<br><br>- Key Feature 1<br>- Key Feature 2 |
