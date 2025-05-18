@@ -59,11 +59,82 @@ Conference on Computational Intelligence, Springer, ISBN: 978-981-19-2126-1, Oct
 + **Determining the Size, Distance and Depth of object using 
 Computer Vision** [🔗 Journal Link](https://drive.google.com/file/d/1E4ocoa9WhjbOksHTL7AhcDkKffM7CeZg/view?usp=sharing)
 
+https://www.dropbox.com/scl/fi/5sedgohe9e14qtlffmjcu/scenario1.mp4?rlkey=ezsymqz3wfciz2s0t77c6ucj4&st=defz35hu&dl=0
 
 ## Projects
-| **Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**<br>[🔗 Project Link](https://github.com/BELIV-ASU/Enhanced-Cooperative-Perception-Through-Asynchronous-V2I-Framework-with-Delay-Mitigation-for-CAVs)<br>Short description of Project 1.<br><br>- Key Feature 1<br>- Key Feature 2 | **Teleoperated Mobile Robot For External Cable Health Analysis Using Thermal Imaging**<br>[🔗 Project Link](https://github.com/S-Nithish-Kumar/Lapp_Cable_External_Health_Analysis_and_Restoration_Test)<br>Short description of Project 2.<br><br>- Key Feature 1<br>- Key Feature 2 |
-|-----------|-----------|
-| **AMR Localization using Kalman Filter**<br>[🔗 Project Link](https://github.com/yourusername/project3)<br>Short description of Project 3.<br><br>- Key Feature 1<br>- Key Feature 2 | **AMR with YOLOv5 Traffic Sign Detection and LiDAR based Obstacle Avoidance**<br>[🔗 Project Link](https://hankramnithish.github.io/)<br>Short description of Project 4.<br><br>- Key Feature 1<br>- Key Feature 2 |
-| **Development of Closed Loop Control System for Self-Balancing Bike**<br>[🔗 Project Link](https://github.com/S-Nithish-Kumar/Self-Balancing_Motorcycle)<br>Short description of Project 3.<br><br>- Key Feature 1<br>- Key Feature 2 | **Camera based Localization for Mobile Robot Control**<br>[🔗 Project Link](https://github.com/S-Nithish-Kumar/WebCam_Controlled_Rover?tab=readme-ov-file)<br>Short description of Project 4.<br><br>- Key Feature 1<br>- Key Feature 2 |
-| **Design and Development of CNC Sketching Machine**<br>[🔗 Project Link](https://github.com/S-Nithish-Kumar/Development_of_a_Unique_Design_CNC_Sketching_Machine)<br>Short description of Project 3.<br><br>- Key Feature 1<br>- Key Feature 2 | **Design of 4 DoF Robot Arm with Design for Manufacturing using CNC Laser Machine**<br>[🔗 Project Link](https://github.com/S-Nithish-Kumar/Design_of_CNC_Laser_Cut_Friendly_Robot_Arm)<br>Short description of Project 4.<br><br>- Key Feature 1<br>- Key Feature 2 |
-| **Design and Development of CNC Sketching Machine**<br>[🔗 Project Link](https://github.com/S-Nithish-Kumar/Development_of_a_Unique_Design_CNC_Sketching_Machine)<br>Short description of Project 3.<br><br>- Key Feature 1<br>- Key Feature 2 | **Design of 4 DoF Robot Arm with Design for Manufacturing using CNC Laser Machine**<br>[🔗 Project Link](https://github.com/S-Nithish-Kumar/Design_of_CNC_Laser_Cut_Friendly_Robot_Arm)<br>Short description of Project 4.<br><br>- Key Feature 1<br>- Key Feature 2 |
+
+<table style="width:100%">
+  <tr>
+    <td style="width:45%;" align="center"><img src="images\v2i.png" height="100%" width="100%"></td>
+    <td style="width:55%; text-align: justify;"><b>Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles</b>  
+    <a href="https://github.com/BELIV-ASU/Enhanced-Cooperative-Perception-Through-Asynchronous-V2I-Framework-with-Delay-Mitigation-for-CAVs">🔗 Project Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:45%;" align="center"><img src="images\lapp.jpg" height="100%" width="100%"></td>
+    <td style="width:55%; text-align: justify;"><b>Teleoperated Mobile Robot For External Cable Health Analysis Using Thermal Imaging</b>  
+    <a href="https://github.com/S-Nithish-Kumar/Lapp_Cable_External_Health_Analysis_and_Restoration_Test">🔗 Project Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:45%;" align="center"><img src="images\lapp.jpg" height="100%" width="100%"></td>
+    <td style="width:55%; text-align: justify;"><b>Autonomous Mobile Robot Localization using Kalman Filter</b>  
+    <a href="https://github.com/S-Nithish-Kumar/Lapp_Cable_External_Health_Analysis_and_Restoration_Test">🔗 Project Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:45%;" align="center"><img src="images\turtlebot.png" height="100%" width="100%"></td>
+    <td style="width:55%; text-align: justify;"><b>AMR with YOLOv5 Traffic Sign Detection and LiDAR based Obstacle Avoidance</b>  
+    <a href="https://hankramnithish.github.io/">🔗 Project Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:45%;" align="center"><img src="images\turtlebot.png" height="100%" width="100%"></td>
+    <td style="width:55%; text-align: justify;"><b>Machine Learning based Camera Panning System for Active Speaker Tracking</b>  
+    <a href="https://hankramnithish.github.io/">🔗 Project Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:45%;" align="center"><img src="images\rover.jpg" height="100%" width="100%"></td>
+    <td style="width:55%; text-align: justify;"><b>Camera based Localization for Mobile Robot Control</b>  
+    <a href="https://github.com/S-Nithish-Kumar/WebCam_Controlled_Rover?tab=readme-ov-file">🔗 Project Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:45%;" align="center"><img src="images\parking.png" height="100%" width="100%"></td>
+    <td style="width:55%; text-align: justify;"><b>Intelligent Parking Management System</b>  
+    <a href="https://github.com/NithishASU/AME494598Fall2023/tree/main/FinalProject_A_7_8">🔗 Project Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:45%;" align="center"><img src="images\bike.png" height="100%" width="100%"></td>
+    <td style="width:55%; text-align: justify;"><b>Development of Closed Loop Control System for Self-Balancing Bike</b>  
+    <a href="https://github.com/S-Nithish-Kumar/Self-Balancing_Motorcycle">🔗 Project Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:45%;" align="center"><img src="images\size_depth_estimation.png" height="100%" width="100%"></td>
+    <td style="width:55%; text-align: justify;"><b>Computer Vision based Object depth and Size Estimation Using Monocular Camera</b>  
+    <a href="https://github.com/S-Nithish-Kumar/Determining_the_Size_Distance_Depth_and_Shape_of_Objects_using_Computer_Vision_and_Deep_Learning">🔗 Project Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:45%;" align="center"><img src="images\human_activity.png" height="100%" width="100%"></td>
+    <td style="width:55%; text-align: justify;"><b>Anomalous Human Activity Detection Using Deep Learning Model</b>  
+    <a href="https://github.com/S-Nithish-Kumar/Anomalous_human_activity_detection_using_stick_figure_and_deep_learning_model">🔗 Project Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:45%;" align="center"><img src="images\sketching_machine.jpg" height="100%" width="100%"></td>
+    <td style="width:55%; text-align: justify;"><b>Design and Development of CNC Sketching Machine</b>  
+    <a href="https://github.com/S-Nithish-Kumar/Development_of_a_Unique_Design_CNC_Sketching_Machinee">🔗 Project Link</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:45%;" align="center"><img src="images\robot_arm.png" height="100%" width="100%"></td>
+    <td style="width:55%; text-align: justify;"><b>Design of 4 DoF Robot Arm with Design for Manufacturing using CNC Laser Machine</b>  
+    <a href="https://github.com/S-Nithish-Kumar/Design_of_CNC_Laser_Cut_Friendly_Robot_Arm">🔗 Project Link</a>
+    </td>
+  </tr>
+</table>
+
